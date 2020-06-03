@@ -24,6 +24,3 @@ If you get and error saying "Python3.8 is not a internal command" you havnt inst
 
 ## Errors
 If there is any errors please feel free to email me (LAW0026@dsc.vic.edu.au)
-
-## Privacy
-This repository is marked as private due to it is school work related. Thanks
