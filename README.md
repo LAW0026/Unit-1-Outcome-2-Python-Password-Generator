@@ -13,7 +13,7 @@ This is my Unit 1 Outcome 2 Python Software Solution - Secure Password Generator
 This program requires the latest version of python (3.8) [Download Here.](https://www.python.org/downloads/) If Python3.8 isnt installed on your computer the program will run incorrectly.
 
 ## Installation
-Clone or Download the repository and extract the file.
+Clone or Download the repository
 
 ## Running the program
 In a terminal run the following commands in the projects folder.
