@@ -16,7 +16,7 @@ This program requires the latest version of python (3.8) [Download Here.](https:
 Clone or Download the repository
 
 ## Running the program
-In a terminal run the following commands in the projects folder.
+In a terminal run the following command in the projects folder depending on your installation.
 ```console
 python3.8 PasswordGen.py
 ```
